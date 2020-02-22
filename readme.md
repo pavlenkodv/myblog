@@ -7,8 +7,7 @@ Blog for demonstration purpose. Based on Laravel 5.7
 You can try the live demo : [http://guarded-cove-74054.herokuapp.com](http://guarded-cove-74054.herokuapp.com)
 
 ## Demo login info
-
-[http://guarded-cove-74054.herokuapp.com/login]
+Dashboard login: [http://guarded-cove-74054.herokuapp.com/login](http://guarded-cove-74054.herokuapp.com/login)
 
 user: admin@mail.com | password: Admin
 
